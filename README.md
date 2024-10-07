@@ -1,1 +1,1 @@
-# textutils is application for text formating
+# textutils is application for text formating.
